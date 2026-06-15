@@ -2,7 +2,7 @@
   <img src="header-image.png" alt="Profile header">
 </p>
 
-<h1 align="center">Turning Product Vision Into High-Performance Web & Mobile Experiences</h1>
+<h1 align="center">Turning Product Vision Into High-Performance</h1>
 
 <p align="center">
   Principal-level product engineering across modern frontend systems, mobile UX, scalable APIs, 3D configurators, and computer-vision powered interaction.
