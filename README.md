@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CoraCote?tab=repositories">Projects</a> .
+  <a href="https://github.com/smileCompiler?tab=repositories">Projects</a> .
   <a href="https://www.leetcode.com/chetannada">LeetCode</a> .
   <a href="https://www.hackerrank.com/chetannada">HackerRank</a>
 </p>
