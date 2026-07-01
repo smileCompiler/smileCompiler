@@ -1,0 +1,135 @@
+This is prompt.
+
+---------------
+🚀🚀The moment you find the right fit, everything moves faster. ⚡ Let's find out if that's us.🚀🚀
+
+(Powerful HOOK Part)Begin with "🌟" and write a technically difficult sentence structure and explanation of 100-150 characters, professionally, more architectural about how to solve the problem by applying a certain logic and a certain composition method, while emphasizing the most desired part of the other party, the basic core part, and the difficulties. Then close with 🌟. (Construction format with kindly)
+
+Very similar and different style struction hook (content) that is humorous, surprising, and great confidence like  "𝑫𝒐𝒏'𝒕 𝒘𝒐𝒓𝒓𝒚👌, 𝑰𝒇 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒉𝒂𝒕 𝒆𝒅𝒊𝒕𝒐𝒓𝒊𝒂𝒍 𝒇𝒆𝒆𝒍 𝒂𝒏𝒅 𝒛𝒆𝒓𝒐 𝒋𝒂𝒏𝒌, ....."It should be don't mention about description part like "Here’s the fun part:". But also, not too long…
+
+( Please include 2 to 3 links to websites that best match your job posting, as found through a deep search engine like Google or Gemini (please double-check that the links are actually working). Exclude links from the same or different industries, including platforms that support a specific framework—those we regularly use to load or otherwise manipulate. it should be a beautiful, multi-functional platform (web and app, whatever).When searching for links, please exclude examples, tutorials, and test pages.Please add three sentences description to the link, technically emphasizing the purpose.
+
+Mark each link with a 📌 (only three links total). Each link should have a line break.
+
+(For mobile app-related resumes, use links from the App Store or Google Play. These are less common, but they should be unique, attractive, useful, and active.) Use perfectly matching (active) links. Links can be a powerful tool for securing job offers.
+
+About found each app link, give me one description with more enough.. Totally within normally 700 characters, just needed and mainly and technically )
+
+Follow below format about link explaination (it is experience, not plan)
+"""📌 URL [ Title ]
+𝑨𝒃𝒐𝒖𝒕: XXXXX
+𝑹𝒐𝒍𝒆: (about What role did you play in the development of this project, what were the challenges, and how did you overcome them with deeply? - not flow, just full sentences) with kindly and chat format"""
+Without end-dash and +, ; and with native chat style Use -> instead of →
+
+Also, make the flow of content more logical and complete. Highlight these elements.(Important! All experiences must be consistent and logically sound. They should be unique, not generic.)
+
+𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝑭𝒍𝒐𝒘:-> XXX -> YYY -> ZZZ -> BBB -> GGG -> HHH -> KKK
+
+𝑷𝒓𝒆𝒇𝒆𝒓𝒓𝒆𝒅 𝑺𝒕𝒂𝒄𝒌:
+
+
+🫰 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉 :
+
+Please provide a step-by-step description of the key elements that will lead to the success of the task, in a precise, technically sound, if possible systematic, logically sound, and primarily detailed (not code-based) manner. All content should be written in complete sentences (in a command-like format). Mark each step with a 🔹.
+If the task is primarily weekly or daily, accurately estimate the number of days required for each step within the overall schedule, using the format below, and present the corresponding approach to ensure technical perfection and engagement.Also, ensure that the total days/weeks for all steps are accurate.
+
+(This is crucial throughout the process.)
+
+If the task description clearly states what needs to be built and what needs to be done step-by-step and requires specific answers, please summarize these clearly and accurately, rather than relying on the traditional format.
+
+Not use -> and +, : in phase part.Give me correctly and perfect as expert level timeline as weekly. Per one weekly... (detailed and powerful)
+✔️ Phase 1 - XXXX (1 Week)
+🔹
+🔹
+
+✔️ Phase 2 - YYYY (1 Week)
+🔹
+🔹
+
+
+✔️ Phase 3 - ZZZZ (1 Week)
+🔹
+🔹
+
+--- --- ---
+As a closing statement, please write a one sentence about your confidence, your enthusiasm for the project, your technical skills. Conclude by expressing your hope for collaboration or a desire to have a conversation to discuss the project.
+
+Best regards,
+
+Use accurate emotions and Americian-style bidding style, and a combination of distinctive, clean, systematic, confident, feasible, aesthetic, and surprising styles for each stage.  Combine intensity and innovation, modifying phrases and paragraph titles to be distinctive, visually appealing, and satisfying to the client.  Use directional indicators to highlight key points, ensuring the client trusts you by avoiding exaggeration and demonstrating your experience.  Emphasize and highlight the bid document by accurately presenting each hook.
+
+Among of entire bids, enhance the mainly and core 3~4 keywords and phrase.Entire bid characters are limited maximum 3000 characters (include all), so our bid's maximum content is 3000 characters.We wanna bid content with more optimized, perfectly, trustly and well-organized.More activity, professional and 100% verbal.More enough fully and detailed experience and should show clearly towards and way with logically and orderly. (priority one: Best matched links, enough experience, timeline and cost)
+
+If require github link in additional question, please use https://github.com/CoraCote . Do you make sense? Below is the job description and profile summary. Are you ready? just no code format
+
+Limit 3000 characters including space
+------------
+
+Are you ready?
+
+
+
+Link and description and timeline
+
+
+Please refer to above all. This is intended to further emphasize the proposal. It should also demonstrate to the client that I have extensive leadership project experience as a technical leader and can manage and execute tasks step by step. Based on your support list, I would like to demonstrate my technical advancement. 
+
+We should have sufficient experience and an appropriate approach to the proposal. The proposal should be structured to be concise and to the point, neither too long nor too short, without tediousness for the client.
+
+Use -> instead of →. When separating milestones or weekly plans, avoid long descriptions to avoid a single line, as the structure is fragmented and unstructured and not weekly, use (... days per each). Just web link with modern style UI with perfectly matched with fully approach and correct answer and detail flow Must include detailed approach about above. (detailed and technically and mainly and reasonable)
+
+Please include what is role and content of this app in there in description of each link... so within 3 sentences.
+
+Just fully experience and best matched and perfectly web links with modern UI and style perfectly web link 10 with modern UI Please include solving (best approach) method of each "above must including parts" with super professional and technically and possibly and .... Deep experience in best matched above job.... Give me deeply and fully proposal with more best matched another links Give me include perfect answer of client's confirm questions and all of similar question. Include preferred stack not famous and common... with modern Just web links Please update proposal structure according to above apply format. Including deeply and correctly answer with perfectly and technically and logically and enough... just enough experience and approach without end dash and + and ; And also, plz suggest preferred stack... more enough and detailed experience and approach... Full proposal Client mentioned above as milestone 1~3, Give me correctly approach and milestone.. Timeline: based on above above Just not-well-known sites.. (after 2015 years - update history) Not normal proposal, just more specifically Don't memtioned about timeline and phases ...
+
+
+
+
+
+
+Employment History, Certifications, Other expereiences, education.
+
+
+Base: Sweden
+Education Duration: 2015-2019  
+Title: Senior LLM & AI Systems Engineer | OpenClaw, RAG, LangGraph
+Experience Duration: 2018~ 2025.12 (including month)
+I need to 4 real technically and logically experience following above format (except university).  
+The period of experience should be approximately one year or more and include (city, country) info follow middle-level random Sweden 2 and US 2 companies.    
+Employment history title is not common, but include enough tech and special 
+each experience description should be limited within 900 characters.
+
+Please use 💠 per each element. And also, including company name
+Like this format about experience detail: 
+💠
+💠
+💠
+correctly order experience level (...... from old to last)
+
+It includes main keys such as: (above) 
+
+Give me also university.
+
+Title is more professional including deeply tech...
+to English
+-------------------
+Perfectly answer of below.
+
+- Certification  2 (professional, enough and perfectly, like AWS and  OpenClaw.)  
+Certification name
+Provider
+Description
+Issue date
+
+- Other experience (2) - More enough, not common but specially with suitable above (Maketing Strategy, SEO)
+Subject
+Description
+
+
+Please refer to your profile. This is intended to further emphasize the proposal based on my summary. It should also demonstrate to the client that I have extensive leadership project experience as a technical leader and can manage and execute tasks step by step. Based on your support list, I would like to demonstrate my technical advancement. We should have sufficient experience and an appropriate approach to the proposal. The proposal should be structured to be concise and to the point, neither too long nor too short, without tediousness for the client. Use -> instead of →. When separating milestones or weekly plans, avoid long descriptions to avoid a single line, as the structure is fragmented and unstructured and not weekly, use (... days per each). Just playstore link with modern style UI and (Between 10K downloads) with perfectly matched with fully approach and correct answer and detail flow Must include detailed approach about above. (detailed and technically and mainly and reasonable) Please include what is role and content of this app in there in description of each link... so within 3 sentences Just fully experience and best matched and perfectly playstore link with modern UI and style perfectly 3 playstore links with modern UI and matched website links with mobile app Please include solving (best approach) method of each "above must including parts" with super professional and technically and possibly and .... Deep experience in best matched above job.... Give me deeply and fully proposal with more best matched another links Must include suggest Preferred Stack - - - Include perfectly and suitable and possible and clearly timeline (just approach) Based on above client's requirement, remake proposal with deeply and powerful and professional Must provide timeline based on client's scope Please make proposal unlike ai format. Mustn't use ; or +..., more flexibility and perfectly Just experienced regarding already built.. Give me Perfect proposal. In experience part, Rather than explaining how to do it, describe what you've already accomplished, what skills it required, what the core functions were, and why it was implemented this way. Describe it from these perspectives. Please provide me with more suitable and reasonable timeline and experience and links. Just suggest milestone-based type, so must include detailed approach and solving method and timeline accoring to each steps(scope's each items). So, this proposal is different to before. Must include perfectly worked logic on this. !!!! Important, just architectural proposal and detailed approach... Should be suggest detailed apporoach for implementation of great client's idea. Give me perfect proposal. Just client's scope steps should be the same as phase steps... with more detailed. Please provide perfect links (both of playstore links/app store links) that it is unknown-sites Please spread out all that focus on client's question. So provide approach and solving method and quote according to all features... more and more correctly and enoughly Give me perfect proposal According to timeline, change the approach steps ..... (according to above milestone based timeline - totally 32 weeks)
+
+
+Mobile link and description
+__________________________________
+
+For mobile app-related proposals, use App Store or Google Play links whenever possible. These should be unique, attractive, practical, actively available, and highly relevant to the client’s requested product direction. The purpose of these links is to strengthen the proposal and increase credibility, so they must feel premium, realistic, and strategically selected. Mark each link with a 🔗 and provide only three links in total. Place each link on a separate line. Just fully experience and best matched and perfectly playstore link with modern UI and style perfectly 3 playstore links with modern UI Just 5K~10K downloads app, just playstore links
